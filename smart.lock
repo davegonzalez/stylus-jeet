@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "stylus-latest-with-jeet": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "stylus-latest-with-jeet": {
+        "path": "."
+      }
+    }
+  }
+}

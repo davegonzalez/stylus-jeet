@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "stylus": {
+      "version": "0.41.3",
+      "dependencies": {
+        "cssom": {
+          "version": "0.2.5"
+        },
+        "mkdirp": {
+          "version": "0.3.5"
+        },
+        "debug": {
+          "version": "0.7.4"
+        },
+        "sax": {
+          "version": "0.5.8"
+        }
+      }
+    },
+    "nib": {
+      "version": "1.0.1",
+      "dependencies": {
+        "stylus": {
+          "version": "0.35.1",
+          "dependencies": {
+            "cssom": {
+              "version": "0.2.5"
+            },
+            "mkdirp": {
+              "version": "0.3.5"
+            },
+            "debug": {
+              "version": "0.7.4"
+            },
+            "sax": {
+              "version": "0.5.8"
+            }
+          }
+        }
+      }
+    }
+  }
+}
