@@ -1,8 +1,8 @@
 {
   "name": "Stylus-and-Jeet",
-  "description": "Testing Stylus and Jeet",
+  "description": "A fork of stylus-latest with jeet 4.1.1 added to it.",
   "author": "Dave G.",
   "homepage": "https://github.com/davegonzalez/stylus-jeet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/davegonzalez/stylus-jeet.git"
 }
