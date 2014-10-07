@@ -1,3 +1,6 @@
+**This repo is no longer maintained**
+I recommend you check out [https://atmospherejs.com/cryptoquick/stylus-multi](https://atmospherejs.com/cryptoquick/stylus-multi) if you're looking to get Stylus and Jeet in your Meteor project.
+
 Stylus Latest with Jeet
 ======================
 
